@@ -36,7 +36,7 @@ Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblio
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas en el desarrollo del proyecto.
 
 | Tecnología | Descripción |
 |---|---|
