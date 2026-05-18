@@ -44,7 +44,7 @@ Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblio
 | **MySQL** | Base de datos relacional para almacenar la información |
 | **HTML5** | Estructura de las vistas y formularios |
 | **CSS3** | Estilos y diseño visual de la interfaz |
-| **Visual Studio Code** | Editor de código utilizado en el desarrollo |
+| **Visual Studio Code** | Editor de código abierto utilizado en el desarrollo |
 
 ---
 
