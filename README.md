@@ -1,4 +1,4 @@
-# 📚 Sistema de Gestión — Biblioteca Municipal de Cajamarca
+# 📚 Sistema de Gestión para La Biblioteca Municipal de Cajamarca
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
