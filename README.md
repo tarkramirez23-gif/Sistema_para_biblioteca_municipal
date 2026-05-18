@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Estado-En%20LISTO-green?style=for-the-badge"/>
 </p>
 
 Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblioteca Municipal de Cajamarca**, Perú. Permite administrar el catálogo de libros, los usuarios registrados, los préstamos activos y las reservas de material bibliográfico.
