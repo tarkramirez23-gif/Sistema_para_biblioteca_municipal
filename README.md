@@ -11,7 +11,7 @@ Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblio
 
 ---
 
-## 🗂️ Indice
+## 🗂️ INDICE
 
 - [Características](#-características)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
