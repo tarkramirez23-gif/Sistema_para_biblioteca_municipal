@@ -81,7 +81,7 @@ Sistema_para_biblioteca_municipal/
 
 ## ⚙️ Requisitos previos
 
-Antes de instalar el sistema, asegúrate de tener lo siguiente:
+Antes de instalar el sistema, asegúrate de tener lo siguiente en tu ordenador:
 
 - [XAMPP](https://www.apachefriends.org/es/index.html) instalado (incluye Apache, PHP y MySQL)
 - PHP **7.4** o superior
