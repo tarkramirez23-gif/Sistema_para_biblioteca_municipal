@@ -101,7 +101,7 @@ git clone https://github.com/tarkramirez23-gif/Sistema_para_biblioteca_municipal
 2. **Copia la carpeta del proyecto a tu servidor local:**
 
    - Para XAMPP: copia la carpeta dentro de `C:/xampp/htdocs/`
-   - Para WAMP: copia dentro de `C:/wamp64/www/`
+
 
 3. **Inicia los servicios** de Apache y MySQL desde el panel de XAMPP/WAMP.
 
