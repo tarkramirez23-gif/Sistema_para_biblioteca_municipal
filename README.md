@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Estado-%20LISTO-green?style=for-the-badge"/>
 </p>
 
@@ -42,8 +42,8 @@ Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblio
 |---|---|
 | **PHP** | Lógica del servidor y procesamiento de datos |
 | **MySQL** | Base de datos relacional para almacenar la información |
-| **HTML5** | Estructura de las vistas y formularios |
-| **CSS3** | Estilos y diseño visual de la interfaz |
+| **HTML** | Estructura de las vistas y formularios |
+| **CSS** | Estilos y diseño visual de la interfaz |
 | **Visual Studio Code** | Editor de código abierto utilizado en el desarrollo del proyecto |
 
 ---
