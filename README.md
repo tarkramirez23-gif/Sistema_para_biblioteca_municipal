@@ -103,7 +103,7 @@ git clone https://github.com/tarkramirez23-gif/Sistema_para_biblioteca_municipal
    - Para XAMPP: copia la carpeta dentro de `C:/xampp/htdocs/`
 
 
-3. **Inicia los servicios** de Apache y MySQL desde el panel de XAMPP/WAMP.
+3. **Inicia los servicios** de Apache y MySQL desde el panel de XAMPP.
 
 4. **Abre el navegador** y accede a:
 
