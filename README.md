@@ -92,7 +92,7 @@ Antes de instalar el sistema, asegúrate de tener lo siguiente en tu ordenador:
 
 ## 🚀 Instalación
 
-1. **Clona o descarga el repositorio:**
+1. **Clona o descarga el repositorio para que puedas trabajar o contribuir en el proyecto:**
 
 ```bash
 git clone https://github.com/tarkramirez23-gif/Sistema_para_biblioteca_municipal.git
