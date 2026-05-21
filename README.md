@@ -175,10 +175,11 @@ Para agregar capturas, crea una carpeta `/screenshots` en el repositorio y refer
 
 ## 👨‍💻 Autor
 
+Theylor Ramirez Vasquez
+
 **tarkramirez23-gif**
 
 - GitHub: [@tarkramirez23-gif](https://github.com/tarkramirez23-gif)
-
 ---
 
 ## 📍 Contexto
