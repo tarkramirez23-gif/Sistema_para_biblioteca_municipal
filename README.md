@@ -155,7 +155,7 @@ Una vez instalado y configurado el sistema:
 3. Desde el panel principal puedes:
    - **Agregar o buscar libros** en el catálogo.
    - **Registrar nuevos usuarios** (lectores).
-   - **Gestionar préstamos**: registrar salidas y devoluciones.
+   - **Gestionar préstamos**: registrar prestamos y devoluciones.
    - **Administrar reservas** activas.
 
 ---
