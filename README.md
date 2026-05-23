@@ -180,6 +180,7 @@ Theylor Ramirez Vasquez
 **tarkramirez23-gif**
 
 - GitHub: [@tarkramirez23-gif](https://github.com/tarkramirez23-gif)
+- Linkedin: https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/
 ---
 
 ## 📍 Contexto
