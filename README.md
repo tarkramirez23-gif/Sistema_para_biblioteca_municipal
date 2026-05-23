@@ -188,5 +188,5 @@ Theylor Ramirez Vasquez
 Este sistema fue desarrollado como solución tecnológica para la **Biblioteca Municipal de Cajamarca**, Perú, con el objetivo de modernizar y agilizar los procesos de gestión bibliográfica, préstamos y reservas.
 
 ---
----
+
 
