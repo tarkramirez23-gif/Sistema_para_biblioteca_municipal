@@ -189,6 +189,3 @@ Este sistema fue desarrollado como solución tecnológica para la **Biblioteca M
 
 ---
 
-<p align="center">
-  Desarrollado con ❤️ en Cajamarca, Perú 🇵🇪
-</p>
