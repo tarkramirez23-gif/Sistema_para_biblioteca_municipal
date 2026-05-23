@@ -156,7 +156,7 @@ Una vez instalado y configurado el sistema:
    - **Agregar o buscar libros** en el catálogo.
    - **Registrar nuevos usuarios** (lectores).
    - **Gestionar préstamos**: registrar prestamos y devoluciones.
-   - **Administrar reservas** activas.
+   - **Administrar reservas** : activas.
 
 ---
 
