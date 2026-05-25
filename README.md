@@ -169,6 +169,9 @@ Codigo fuente
 
 <img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/4baa3ca8-ad59-4473-a15a-79401c309c3f" />
 
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/c390445c-4cfe-4c37-a7aa-aec8b48e6172" />
+
+
 
 
 
