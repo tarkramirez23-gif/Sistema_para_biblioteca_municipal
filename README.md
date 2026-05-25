@@ -173,22 +173,15 @@ Codigo fuente
 
 <img width="1916" height="755" alt="image" src="https://github.com/user-attachments/assets/d3e454dd-0d1f-4e63-96bc-bf0dd60c12b2" />
 
-```
-
-## 👨‍💻 Autor
-
-Theylor Ramirez Vasquez
-
-**tarkramirez23-gif**
-
-- GitHub: [@tarkramirez23-gif](https://github.com/tarkramirez23-gif)
-- Linkedin: https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/
 ---
 
-## 📍 Contexto
+## 👤 Autor
 
-Este sistema fue desarrollado como solución tecnológica para la **Biblioteca Municipal de Cajamarca**, Perú, con el objetivo de modernizar y agilizar los procesos de gestión bibliográfica, préstamos y reservas.
+**THEYLOR RAMIREZ VASQUEZ**
+- GitHub: (tarkramirez23-gif)
+- LinkedIn: (https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/)
 
 ---
+
 
 
