@@ -163,6 +163,8 @@ Una vez instalado y configurado el sistema:
 ## 📸 Capturas de pantalla
 
 <img width="671" height="432" alt="Captura de pantalla 2026-05-24 035707" src="https://github.com/user-attachments/assets/491306f3-b4ec-4829-bf62-b943fbe8c60a" />
+<img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/9da44d6f-6c21-4bbd-bb14-9861d164210e" />
+
 
 
 Para agregar capturas, crea una carpeta `/screenshots` en el repositorio y referencia las imágenes así:
