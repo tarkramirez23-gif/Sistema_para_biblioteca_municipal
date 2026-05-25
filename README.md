@@ -175,8 +175,6 @@ Codigo fuente
 
 ```
 
----
-
 ## 👨‍💻 Autor
 
 Theylor Ramirez Vasquez
