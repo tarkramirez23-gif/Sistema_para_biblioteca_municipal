@@ -171,6 +171,7 @@ Codigo fuente
 
 <img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/c390445c-4cfe-4c37-a7aa-aec8b48e6172" />
 
+<img width="1916" height="755" alt="image" src="https://github.com/user-attachments/assets/d3e454dd-0d1f-4e63-96bc-bf0dd60c12b2" />
 
 
 
