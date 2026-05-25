@@ -161,7 +161,7 @@ Una vez instalado y configurado el sistema:
 ---
 
 ## 📸 Capturas de pantalla
----
+
 Codigo fuente:
 
 <img width="671" height="432" alt="Captura de pantalla 2026-05-24 035707" src="https://github.com/user-attachments/assets/491306f3-b4ec-4829-bf62-b943fbe8c60a" />
