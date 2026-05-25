@@ -173,16 +173,6 @@ Codigo fuente
 
 <img width="1916" height="755" alt="image" src="https://github.com/user-attachments/assets/d3e454dd-0d1f-4e63-96bc-bf0dd60c12b2" />
 
-
-
-
-
-
-Para agregar capturas, crea una carpeta `/screenshots` en el repositorio y referencia las imágenes así:
-
-```markdown
-![Panel Principal](screenshots/panel_principal.png)
-![Listado de Libros](screenshots/libros.png)
 ```
 
 ---
