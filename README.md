@@ -48,7 +48,7 @@ Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblio
 
 ---
 
-## 📁 Estructura del proyecto
+## 📁 Estructura del proyecto.
 
 ```
 Sistema_para_biblioteca_municipal/
