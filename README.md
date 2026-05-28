@@ -25,7 +25,7 @@ Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblio
 
 ---
 
-## ✅ Características
+## ✅ Características.
 
 - 📖 **Gestión de libros** — Registrar, editar y eliminar títulos del catálogo bibliográfico.
 - 👤 **Gestión de usuarios** — Registro y administración de usuarios (lectores y administradores).
