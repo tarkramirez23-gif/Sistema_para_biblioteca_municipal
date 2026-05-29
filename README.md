@@ -113,7 +113,7 @@ http://localhost/biblioteca_php/
 
 ---
 
-## 🗄️ Configuración de la base de datos
+## 🗄️ Configuración de la base de datos.
 
 1. Abre **phpMyAdmin** en tu navegador mediante el LocalHost:
 ```
