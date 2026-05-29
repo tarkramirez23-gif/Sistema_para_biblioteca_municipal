@@ -160,7 +160,7 @@ Una vez instalado y configurado el sistema:
 
 ---
 
-## 📸 Capturas de pantalla
+## 📸 Capturas de pantalla.
 
 Codigo fuente
 <img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/9da44d6f-6c21-4bbd-bb14-9861d164210e" />
