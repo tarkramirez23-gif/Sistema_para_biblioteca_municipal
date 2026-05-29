@@ -146,7 +146,7 @@ if (!$conexion) {
 
 ---
 
-## 📖 Uso
+## 📖 Uso.
 
 Una vez instalado y configurado el sistema:
 
