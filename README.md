@@ -79,7 +79,7 @@ Sistema_para_biblioteca_municipal/
 
 ---
 
-## ⚙️ Requisitos previos
+## ⚙️ Requisitos previos.
 
 Antes de instalar el sistema, asegúrate de tener lo siguiente en tu ordenador:
 
