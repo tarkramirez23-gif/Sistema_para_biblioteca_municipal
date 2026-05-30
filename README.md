@@ -175,7 +175,7 @@ Codigo fuente
 
 ---
 
-## 👤 Autor
+## 👤 Autor.
 
 **THEYLOR RAMIREZ VASQUEZ**
 - GitHub: (tarkramirez23-gif)
