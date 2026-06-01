@@ -105,7 +105,7 @@ git clone https://github.com/tarkramirez23-gif/Sistema_para_biblioteca_municipal
 
 3. **Inicia los servicios** de Apache y MySQL desde el panel de XAMPP.
 
-4. **Abre el navegador** y accede a según tu LocalHost:
+4. **Abre el navegador** y accede  según tu LocalHost:
 
 ```
 http://localhost/biblioteca_php/
@@ -120,7 +120,7 @@ http://localhost/biblioteca_php/
 http://localhost/phpmyadmin
 ```
 
-2. Crea una nueva base de datos llamada:
+2. Crea una nueva base de datos a tu elección es este caso sera llamada:
 ```
 biblioteca_municipal
 ```
