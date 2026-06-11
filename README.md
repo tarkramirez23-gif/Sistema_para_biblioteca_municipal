@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Estado-%20LISTO-green?style=for-the-badge"/>
 </p>
 
-Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblioteca Municipal de Cajamarca**, Permite administrar el catálogo de libros, los usuarios registrados, los préstamos activos y las reservas de material bibliográfico.
+-Sistema web desarrollado para digitalizar y optimizar la gestión de la **Biblioteca Municipal de Cajamarca**, Permite administrar el catálogo de libros, los usuarios registrados, los préstamos activos y las reservas de material bibliográfico.
 
 ---
 
